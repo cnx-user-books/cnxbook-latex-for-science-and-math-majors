@@ -1,0 +1,54 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Creating PDF Slides with Beamer</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36727</md:content-id>
+  <md:title>Creating PDF Slides with Beamer</md:title>
+  <md:abstract>A series of lecture notes used for teaching LaTeX</md:abstract>
+  <md:uuid>569b600e-215d-43d3-b37f-45c55beca069</md:uuid>
+</metadata>
+
+<content>
+    <para id="id62166"><title>Creating PDF Slides with Beamer</title></para><section id="cid2">
+      <title>Content Types</title>
+      <section id="uid1">
+        <title>Summary Slides</title>
+        <para id="uid1_para"/>
+      </section>
+      <section id="uid2">
+        <title>Bulleted Slide</title>
+        <para id="uid2_para"/>
+      </section>
+      <section id="uid3">
+        <title>Tabular Material</title>
+        <para id="uid3_para"/>
+      </section>
+      <section id="uid4">
+        <title>Verbatim Material</title>
+        <para id="uid4_para"/>
+      </section>
+      <section id="uid5">
+        <title>Graphics</title>
+        <para id="uid5_para"/>
+      </section>
+    </section>
+    <section id="cid3">
+      <title>Basic Slide Types</title>
+      <section id="uid6">
+        <title>Title Page</title>
+        <para id="uid6_para"/>
+      </section>
+      <section id="uid7">
+        <title>Single Column</title>
+        <para id="uid7_para"/>
+      </section>
+      <section id="uid8">
+        <title>Multicolumn Slide</title>
+        <para id="uid8_para"/>
+      </section>
+      <section id="uid9">
+        <title>Multislide content</title>
+        <para id="uid9_para"/>
+      </section>
+    </section>
+  </content>
+</document>
